@@ -1,9 +1,10 @@
 {
   "name": "youtubecloneproject",
   "version": "1.0.0",
-  "main": "app.js",
+
   "scripts": {
-    "test": "parcel index.html"
+    "test": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
